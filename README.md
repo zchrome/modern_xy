@@ -1,10 +1,16 @@
 # modern_xy
 Max for Live X/Y with modern sensibilities
 
+<img width="490" height="189" alt="Screenshot 2025-08-10 at 22 52 29" src="https://github.com/user-attachments/assets/944fcc6e-737d-4131-99b0-d5596ee3260e" />
+
 > "Imagen X/Y Pad was updated and still Max for Live comedy plugin today?"
 
 A small and simple re-creation of the OG M4L device "XY Pad" from back in the days.
 Control two (or four) parameters with the X and Y values of a 2d cursor.
+
+Built with Max 8.6.4 and Ableton Live 12. No guarantees on other versions!
+
+Download from the redist folder or releases tab.
 
 ## Features and improvments
 
