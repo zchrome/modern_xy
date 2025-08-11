@@ -10,7 +10,7 @@ Control two (or four) parameters with the X and Y values of a 2d cursor.
 
 Built with Max 8.6.4 and Ableton Live 12. No guarantees on other versions!
 
-Download from the redist folder or releases tab.
+Download from the redist folder or [releases](https://github.com/zchrome/modern_xy/releases/download/0.1.1/Modern.XY.0.1.1.amxd) tab.
 
 ## Features and improvments
 
