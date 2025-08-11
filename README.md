@@ -20,5 +20,5 @@ Download from the redist folder or [releases](https://github.com/zchrome/modern_
 - **Output curve controls** with a switch between **single- or two-segment** (“S-shaped”) Bézier curves and a **small graphical** (LCD-style) draggable interface (pictslider!) to control curve shape
 - **Two additional mapping outputs**, with **selectable source** (either X or Y axis)
 - **Snapback mode:** in this mode, the cursor snaps back to the set coordinates when the mouse is released; includes adjustable easing time (0–2000 ms) and curve control
-- **Inertia mode:** smooths the cursor movement logarithmically (and spawns a “spooky ghost” cursor to represent the smoothed signal), simulating inertia; includes adjustable smoothing time
+- **Inertia mode:** smooths the cursor movement logarithmically (and spawns a spooky ghost cursor to represent the smoothed signal!), simulating inertia; includes adjustable smoothing time
 - Global **depth control**
